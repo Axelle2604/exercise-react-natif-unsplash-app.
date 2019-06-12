@@ -1,0 +1,5 @@
+export const accessKey =
+  'd90da39f11de2f5c7d13cf5901c20069333ee87f2c9859097bc080eaa729c7a5';
+
+export const secretKey =
+  '4a43bb030a1522f7ad5e710781393ef589fc7d621973e513f169b1971f3a7008';
